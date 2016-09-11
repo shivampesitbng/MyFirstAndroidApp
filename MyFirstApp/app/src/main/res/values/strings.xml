@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="i_s_e">I S E</string>
+    <string name="sem_3">Sem 3</string>
+    <string name="sem_4">Sem 4</string>
+    <string name="sem_5">Sem 5</string>
+    <string name="sem_6">Sem 6</string>
+    <string name="sem_7">Sem 7</string>
+    <string name="sem_8">Sem 8</string>
+    <string name="currently_only_5th_sem_papers_are_available_we_will_update_soon">Currently only 5th Sem Papers are available.We will update soon.</string>
+    <string name="os">OS</string>
+    <string name="cn">CN</string>
+    <string name="flat">FLAT</string>
+    <string name="dbms">DBMS</string>
+    <string name="ss">SS</string>
+    <string name="se">SE</string>
+    <string name="dec_14">Dec 14</string>
+    <string name="july_13">July 13</string>
+    <string name="dec_12">Dec 12</string>
+    <string name="july_14">July 14</string>
+    <string name="dec_11">Dec 11</string>
+    <string name="view">View</string>
+    <string name="download">Download</string>
+    <string name="dec_14_">DEC 14</string>
+</resources>
